@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (csgo_internal.vcxproj, Kerber0s.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  EndScene.cpp
+f:\personal\source codes\bedster\bedster\csgo_internal\cx_strenc.h(41): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  f:\personal\source codes\bedster\bedster\csgo_internal\cx_strenc.h(41): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  f:\personal\source codes\bedster\bedster\csgo_internal\cx_strenc.h(86): note: see reference to class template instantiation 'cx::detail::char_array<0>' being compiled
+  EndScene.cpp(61): note: see reference to class template instantiation 'cx::encrypted_string<18113869227424804204,1>' being compiled
+  NetVarManager.cpp
+  Visuals.cpp
+  Generating code
+  514 of 3682 functions (14.0%) were compiled, the rest were copied from previous compilation.
+    507 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  csgo_internal.vcxproj -> F:\Personal\Source Codes\Bedster\Bedster\Release\memes.dll
